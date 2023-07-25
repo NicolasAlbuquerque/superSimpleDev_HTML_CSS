@@ -1,0 +1,66 @@
+HOVER
+
+Syntax 
+
+.class-name:hover {}
+
+is a pseudo-class
+add extra style.
+these styles only apply when hovering over an element.
+
+ACTIVE
+
+Syntax 
+
+.class-name:active {}
+
+is a pseudo-class
+add extra style.
+these styles only apply when clicking on an element.
+
+
+
+SHADOW
+ box-shadow: 0 0 0 black;
+ box-shadow: > ^ B rgba( r, g, b, alpha);
+
+
+ first value is the horizontal position
+ second value is the vertical position
+ third value is the blur 
+ and after these three values comes the color.
+
+
+
+ rgba( r, g, b, alpha);
+
+-the same thing than rgb
+ alpha is the opacity.
+
+
+ MERCADO FINANCEIRO 
+
+
+ O QUE É MERCADO FINANCEIRO
+  é o ambiente onde pode-se comprar e vender produtos financeiros.
+
+  ivestidores
+   possuem recursos poupados e podem "emprestar" o dinheiro em troca de rentabilidade
+
+   tomadores
+    precisam de recursos para financiar projetos e pagar dividas
+
+    como é dividido o mercado financeiro?
+
+    mercado de capitais
+    Ações, Titulos e derivativos na Bolsa de Valores
+
+    mercado monetário 
+    ambiente de Empréstimo de curto prazo, com vencimento máximo de 1 ano.
+
+    mercado de crédito
+    Recurso de curto, médio e longo prazo para PF e PJ disponibilizados pelas intituições financeiras 
+
+    Mercado de câmbio
+
+    troca de moeda Real > Dólar e Euro
